@@ -1,0 +1,4 @@
+method,accuracy
+LDA,0.9866666666666667
+KNN (k=11),0.9733333333333334
+Classification Tree,0.88
